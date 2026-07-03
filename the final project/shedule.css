@@ -1,0 +1,57 @@
+.navbar{
+    display: flex;
+    background-color: green;
+    justify-content: space-between;
+}
+.hoo{
+    color: white;
+
+
+
+    
+    
+    
+
+}
+.list ul li{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    
+
+    
+}
+.list a{
+    text-decoration: none;
+    color: white;
+}
+caption{
+    color: green;
+}
+table th{
+    background-color: green;
+    color: white;
+    
+}
+.main{
+      display: flex;
+      justify-content: space-between;
+    gap: 20px;
+    border: 10px solid white;
+    background-color: whitesmoke;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main2{
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica;
+    border: 10px solid white;
+    border-radius: 60px;
+    
+}
+.main2 h2{
+    color: green;
+    font-size: large;
+}

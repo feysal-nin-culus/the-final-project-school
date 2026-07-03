@@ -1,0 +1,64 @@
+.navbar{
+    display: flex;
+    background-color: green;
+    justify-content: space-between;
+}
+.hoo{
+    color: white;
+
+
+
+    
+    
+    
+
+}
+.list ul li{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    
+
+    
+}
+.list a{
+    text-decoration: none;
+    color: white;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main h2{
+    color: green;
+    font-size: 30px;
+}
+.main2{
+    display: flex;
+    gap: 20px;
+    border: 10px solid white;
+    background-color: whitesmoke;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.main2 h3{
+    color: green;
+    font-size: large;
+}
+.main3{
+      display: flex;
+    gap: 20px;
+    border: 10px solid white;
+    background-color: whitesmoke;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.main3 h3{
+    color: green;
+    font-size: large;
+}
